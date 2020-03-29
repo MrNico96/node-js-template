@@ -1,0 +1,9 @@
+svg {
+  position: absolute;
+  bottom: 0;
+  width: auto;
+  height: auto;
+  left: 0;
+  overflow: hidden;
+  top:0;
+}
