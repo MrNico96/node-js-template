@@ -1,7 +1,7 @@
 {
   "name": "node-js-template",
   "version": "0.3.0",
-  "description": "nicos's template",
+  "description": "Nico's Node.js, express4 and Bootstrap 4 template ",
   "engines": {
     "node": "12.x"
   },
